@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns:1.7.0
-MAINTAINER linux-jason <asholejason@126.com>
+FROM k8s.gcr.io/coredns:1.8.6
+MAINTAINER linux-jason <linux-jason@outlook.com>
