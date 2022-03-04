@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:3.2
-MAINTAINER linux-jason <asholejason@126.com>
+FROM k8s.gcr.io/pause:3.6
+MAINTAINER linux-jason <linux-jason@outlook.com>
