@@ -1,3 +1,3 @@
   
-FROM k8s.gcr.io/kube-apiserver:v1.25.0
+FROM registry.k8s.io/kube-apiserver:v1.27.3
 MAINTAINER linux-jason <linux-jason@outlook.com>
